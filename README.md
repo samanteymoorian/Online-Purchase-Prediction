@@ -72,7 +72,7 @@ Instead of automatically using a threshold of 0.50, several thresholds were eval
 
 The threshold that produced the highest validation F1 score was selected for the final neural-network predictions.
 
-Selected threshold: .35
+Selected threshold: 0.35
 
 ## Results
 The neural network achieved a ROC-AUC of 0.917 and an F1 score of 0.664 on the held-out test set.
