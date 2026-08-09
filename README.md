@@ -84,9 +84,8 @@ Python, PyTorch, pandas, NumPy, scikit-learn, Matplotlib
 
 ## Repository Structure
 
-- `online_purchase_prediction_pytorch.ipynb` — complete analysis and modeling
+- `Online Purchase Prediction Using PyTorch Neural Networks.ipynb` — complete analysis and modeling
 - `online_shoppers_intention.csv` — dataset
-- `requirements.txt` — required Python packages
 
 ## Author
 
