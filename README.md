@@ -75,13 +75,7 @@ The threshold that produced the highest validation F1 score was selected for the
 Selected threshold: .35
 
 ## Results
-
-| Model.                 | Accuracy.  | Precision | Recall | F1 Score | ROC-AUC
-| PyTorch Neural Network | 0.890      | 0.630     | 0.703  | 0.664    | 0.917 |
-| Logistic Regression    | 0.845      | 0.500     | 0.766  | 0.605    | 0.896 |
-
 The neural network achieved a ROC-AUC of 0.917 and an F1 score of 0.664 on the held-out test set.
-
 Logistic Regression was included as a baseline model for comparison.
 
 ## Technologies
