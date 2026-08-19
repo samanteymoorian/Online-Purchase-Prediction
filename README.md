@@ -224,30 +224,7 @@ Online-Purchase-Prediction/
 
 ---
 
-## Running the Project
 
-Clone the repository:
-
-```bash
-git clone https://github.com/samanteymoorian/Online-Purchase-Prediction.git
-cd Online-Purchase-Prediction
-```
-
-Install the required packages:
-
-```bash
-pip install pandas numpy matplotlib scikit-learn torch optuna
-```
-
-Then open:
-
-```text
-Online Purchase Prediction Using PyTorch Neural Networks.ipynb
-```
-
-and run the notebook cells in order.
-
----
 
 ## Author
 
